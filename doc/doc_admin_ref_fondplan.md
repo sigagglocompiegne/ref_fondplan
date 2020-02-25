@@ -4,6 +4,10 @@
 
 ## Principe
 
+Ici sont répertoriées les tables géographiques constituant le fond de plan dynamique présent sur notre serveur cartographique.
+Le même fond de plan est décliné en 2 emprises géographiques :
+- un fond de plan recouvrant le territoire du pays compiégnois (ARC, CCPE, CCLO)
+- un fond de plan recouvrant le territoire de l'Agglomération de la Région de Compiègne (ARC)
 
 ## Construction
 
