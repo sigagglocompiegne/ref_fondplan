@@ -19,3 +19,8 @@ Les données utilisées sont toutes issues de notre base de données provenant d
 |geo_bdtopo_vegetation|BDTopo IGN|végétation|plan_light_vegetation.sld|
 
 
+|Date | Auteur | Description
+|:---|:---|:---|
+|17/07/2019|Thibaud BILLOTEAU|version 0|
+|13/08/2019|Thibaud BILLOTEAU|version 1|
+|20/12/2019|Grégory Bodet|version 1.1|
