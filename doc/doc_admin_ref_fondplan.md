@@ -15,7 +15,7 @@ Les données utilisées sont toutes issues de notre base de données provenant d
 
 | Table | Source | Pré-traitement | Usage  | Style |
 |:---|:---|:---|:---|  
-|geo_plan_fond|OCS Picardie| - |fond|plan_light_fond_simplifie.sld|
-|geo_bdtopo_vegetation|BDTopo IGN| - |végétation|plan_light_vegetation.sld|
+| geo_plan_fond | OCS Picardie | - | fond | plan_light_fond_simplifie.sld |
+| geo_bdtopo_vegetation | BDTopo IGN | - | végétation | plan_light_vegetation.sld |
 
 
