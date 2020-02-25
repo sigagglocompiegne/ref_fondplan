@@ -5,22 +5,17 @@
 ## Principe
 
 Ici sont répertoriées les tables géographiques constituant le fond de plan dynamique présent sur notre serveur cartographique.
-Le même fond de plan est décliné en 2 emprises géographiques :
+Le même fond de plan est décliné sur 2 emprises géographiques :
 - un fond de plan recouvrant le territoire du pays compiégnois (ARC, CCPE, CCLO)
 - un fond de plan recouvrant le territoire de l'Agglomération de la Région de Compiègne (ARC)
 
-Les données utilisées sont toutes issues de notre base de données mais proviennent de sources différentes qui sont :
-- PCIvecteur
-- OCS Picardie
-- IGN
-- OpenStreetmap
-- ARC
+Les données utilisées sont toutes issues de notre base de données provenant de sources différentes.
 
 ## Construction
 
-|Donnée source | Pré-traitement | Usage  | Style |
+| Table | Source | Pré-traitement | Usage  | Style |
 |:---|:---|:---|:---|  
-|aaa|aaa|aaa|aaa|
-|bbb|bbb|bbb|bbb|
+|geo_plan_fond|OCS Picardie| - |fond|plan_light_fond_simplifie.sld|
+|geo_bdtopo_vegetation|BDTopo IGN| - |végétation|plan_light_vegetation.sld|
 
 
