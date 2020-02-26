@@ -26,9 +26,18 @@ Les données utilisées sont toutes issues de notre base de données provenant d
 |geo_osm_vf|OSM|rail|réseau ferroviaire|plan_light_voie_ferree.sld|
 |geo_osm_masque_apc|OSM|aucun|masque d'opacité sur le fond perdu autour du pays compiégnois|plan_masque.sld|
 |geo_v_plan_troncon|BAL ARC|aucun|voies|plan_light_troncon.sld|
-|geo_vm_osm_commune_apc|OSM|aucun|limite communale|plan_limite_communale.sld|
+|geo_vm_osm_commune_apc|OSM|aucun|limites communales du pays compiégnois|plan_limite_communale.sld|
 |geo_v_plan_lib_voie|ARC|aucun|étiquettes des voies|plan_light_voies_label.sld|
 |geo_v_plan_sens_uniq|ARC|aucun|sens unique directionnel des voies|plan_sens_unique.sld|
 |geo_v_adresse|BAL ARC|adresses conformes et en vigueur|point du numéro d'adresse|bal_geo_v_adresse.sld|
 |geo_adm_quartier|ARC|quartiers de Comipiègne|étiquettes des quartiers|plan_quartier_label.sld|
 |geo_v_plan_detail_label|POI ARC|équipements publics|étiquettes équipements publics|plan_light_detail_label.sld|
+
+### Plan d'agglomération (clair)
+
+Seules les tables listées ci-dessous diffèrent du précédent tableau.
+
+|Table | Source | Pré-traitement | Usage | Style
+|:---|:---|:---|:---|:---|
+|geo_osm_masque_arcba|OSM|aucun|masque d'opacité sur le fond perdu autour de l'ARC|plan_masque.sld|
+|geo_vm_osm_commune_arcba|OSM|aucun|limites communales de l'ARC|plan_limite_communale.sld|
