@@ -68,7 +68,7 @@
              <Fill>
                  <CssParameter name="fill">#666699</CssParameter>
              </Fill>
-            <VendorOption name="autoWrap">100</VendorOption>
+            <VendorOption name="autoWrap">95</VendorOption>
 		  </TextSymbolizer> 
 		</Rule>
 	</FeatureTypeStyle>
