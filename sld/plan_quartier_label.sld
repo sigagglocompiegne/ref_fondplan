@@ -8,7 +8,7 @@
      
 <se:FeatureTypeStyle>
 <se:Rule>
-    <se:MinScaleDenominator>1</se:MinScaleDenominator>
+    <se:MinScaleDenominator>2000</se:MinScaleDenominator>
     <se:MaxScaleDenominator>15000</se:MaxScaleDenominator>         
 <se:TextSymbolizer>
          <se:Label>
