@@ -803,7 +803,7 @@
       
 	<se:FeatureTypeStyle>
         <se:Rule>
-          <se:Name>BRETELLE BAS [H6:H9] [1-1000]</se:Name>
+          <se:Name>BRETELLE BAS [H6:H9] [1-10000]</se:Name>
 		  <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
              <ogc:And>
              <ogc:PropertyIsEqualTo>
@@ -870,9 +870,9 @@
                     </ogc:Function>                 
                    <ogc:Literal>2.4</ogc:Literal>
                    <ogc:Literal>19999</ogc:Literal>
-                   <ogc:Literal>2.4</ogc:Literal>
+                   <ogc:Literal>2</ogc:Literal>
                    <ogc:Literal>49999</ogc:Literal>
-                   <ogc:Literal>2.4</ogc:Literal>
+                   <ogc:Literal>2</ogc:Literal>
                    <ogc:Literal>99999</ogc:Literal>
                    <ogc:Literal>1.4</ogc:Literal>
               </ogc:Function>                          
@@ -1053,7 +1053,7 @@
       
 	<se:FeatureTypeStyle>
         <se:Rule>
-          <se:Name>AUTOROUTE [1-10000]</se:Name>
+          <se:Name>AUTOROUTE BAS [1-10000]</se:Name>
 		  <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
              <ogc:PropertyIsEqualTo>
                  <ogc:PropertyName>type_tronc</ogc:PropertyName>
@@ -1760,11 +1760,11 @@
                     <ogc:Function name="env">
                     <ogc:Literal>wms_scale_denominator</ogc:Literal>
                     </ogc:Function>                  
-                   <ogc:Literal>1</ogc:Literal>
+                   <ogc:Literal>1.8</ogc:Literal>
                    <ogc:Literal>19999</ogc:Literal>
-                   <ogc:Literal>1</ogc:Literal>
+                   <ogc:Literal>1.6</ogc:Literal>
                    <ogc:Literal>49999</ogc:Literal>
-                   <ogc:Literal>1</ogc:Literal>
+                   <ogc:Literal>1.6</ogc:Literal>
                    <ogc:Literal>99999</ogc:Literal>
                    <ogc:Literal>1</ogc:Literal>
               </ogc:Function>                          
@@ -1850,7 +1850,7 @@
                    <ogc:Literal>49999</ogc:Literal>
                    <ogc:Literal>2.4</ogc:Literal>
                    <ogc:Literal>99999</ogc:Literal>
-                   <ogc:Literal>1.4</ogc:Literal>
+                   <ogc:Literal>1.6</ogc:Literal>
               </ogc:Function>                          
               </se:SvgParameter>
              	<se:SvgParameter name="stroke-linejoin">round</se:SvgParameter>
