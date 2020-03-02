@@ -655,7 +655,7 @@
                     <ogc:Function name="env">
                     <ogc:Literal>wms_scale_denominator</ogc:Literal>
                     </ogc:Function>                   
-                   <ogc:Literal>2.4</ogc:Literal>
+                   <ogc:Literal>3.2</ogc:Literal>
                    <ogc:Literal>19999</ogc:Literal>
                    <ogc:Literal>2.4</ogc:Literal>
                    <ogc:Literal>49999</ogc:Literal>
@@ -695,7 +695,7 @@
                     <ogc:Function name="env">
                     <ogc:Literal>wms_scale_denominator</ogc:Literal>
                     </ogc:Function>                   
-                   <ogc:Literal>3.4</ogc:Literal>
+                   <ogc:Literal>4</ogc:Literal>
                    <ogc:Literal>19999</ogc:Literal>
                    <ogc:Literal>3.4</ogc:Literal>
                    <ogc:Literal>49999</ogc:Literal>
@@ -782,11 +782,11 @@
                     </ogc:Function>                   
                    <ogc:Literal>4.6</ogc:Literal>
                    <ogc:Literal>19999</ogc:Literal>
-                   <ogc:Literal>4.6</ogc:Literal>
+                   <ogc:Literal>4</ogc:Literal>
                    <ogc:Literal>49999</ogc:Literal>
-                   <ogc:Literal>4.6</ogc:Literal>
+                   <ogc:Literal>4</ogc:Literal>
                    <ogc:Literal>99999</ogc:Literal>
-                   <ogc:Literal>3.6</ogc:Literal>  
+                   <ogc:Literal>3.2</ogc:Literal>  
               </ogc:Function>                          
               </se:SvgParameter>
              	<se:SvgParameter name="stroke-linejoin">round</se:SvgParameter>
@@ -825,15 +825,15 @@
                     <ogc:Function name="env">
                     <ogc:Literal>wms_scale_denominator</ogc:Literal>
                     </ogc:Function>                   
-                   <ogc:Literal>4</ogc:Literal>
+                   <ogc:Literal>3</ogc:Literal>
                    <ogc:Literal>499</ogc:Literal>
-                   <ogc:Literal>4</ogc:Literal>
+                   <ogc:Literal>3</ogc:Literal>
                    <ogc:Literal>999</ogc:Literal>
-                   <ogc:Literal>6</ogc:Literal>
+                   <ogc:Literal>4.4</ogc:Literal>
                    <ogc:Literal>1999</ogc:Literal>
-                   <ogc:Literal>8</ogc:Literal>
+                   <ogc:Literal>6.4</ogc:Literal>
                    <ogc:Literal>4999</ogc:Literal>
-                   <ogc:Literal>10</ogc:Literal>
+                   <ogc:Literal>8.4</ogc:Literal>
               </ogc:Function>                          
               </se:SvgParameter>
              	<se:SvgParameter name="stroke-linejoin">round</se:SvgParameter>
@@ -909,15 +909,15 @@
                     <ogc:Function name="env">
                     <ogc:Literal>wms_scale_denominator</ogc:Literal>
                     </ogc:Function>                  
-                   <ogc:Literal>4</ogc:Literal>
+                   <ogc:Literal>3.6</ogc:Literal>
                    <ogc:Literal>499</ogc:Literal>
-                   <ogc:Literal>4</ogc:Literal>
+                   <ogc:Literal>3.6</ogc:Literal>
                    <ogc:Literal>999</ogc:Literal>
-                   <ogc:Literal>6</ogc:Literal>
+                   <ogc:Literal>5</ogc:Literal>
                    <ogc:Literal>1999</ogc:Literal>
-                   <ogc:Literal>8</ogc:Literal>
+                   <ogc:Literal>7</ogc:Literal>
                    <ogc:Literal>4999</ogc:Literal>
-                   <ogc:Literal>10</ogc:Literal>
+                   <ogc:Literal>9</ogc:Literal>
               </ogc:Function>                          
               </se:SvgParameter>
              	<se:SvgParameter name="stroke-linejoin">round</se:SvgParameter>
@@ -954,11 +954,11 @@
                     </ogc:Function>                   
                    <ogc:Literal>3.4</ogc:Literal>
                    <ogc:Literal>19999</ogc:Literal>
-                   <ogc:Literal>3.4</ogc:Literal>
+                   <ogc:Literal>2.8</ogc:Literal>
                    <ogc:Literal>49999</ogc:Literal>
-                   <ogc:Literal>3.4</ogc:Literal>
+                   <ogc:Literal>2.8</ogc:Literal>
                    <ogc:Literal>99999</ogc:Literal>
-                   <ogc:Literal>2.4</ogc:Literal>
+                   <ogc:Literal>2</ogc:Literal>
               </ogc:Function>                          
               </se:SvgParameter>
              	<se:SvgParameter name="stroke-linejoin">round</se:SvgParameter>
@@ -991,15 +991,15 @@
                     <ogc:Function name="env">
                     <ogc:Literal>wms_scale_denominator</ogc:Literal>
                     </ogc:Function>                  
-                   <ogc:Literal>8</ogc:Literal>
+                   <ogc:Literal>5.4</ogc:Literal>
                    <ogc:Literal>499</ogc:Literal>
-                   <ogc:Literal>8</ogc:Literal>
+                   <ogc:Literal>5.4</ogc:Literal>
                    <ogc:Literal>999</ogc:Literal>
-                   <ogc:Literal>10</ogc:Literal>
+                   <ogc:Literal>7.4</ogc:Literal>
                    <ogc:Literal>1999</ogc:Literal>
-                   <ogc:Literal>12</ogc:Literal>
+                   <ogc:Literal>11</ogc:Literal>
                    <ogc:Literal>4999</ogc:Literal>
-                   <ogc:Literal>14</ogc:Literal>
+                   <ogc:Literal>13</ogc:Literal>
               </ogc:Function>                          
               </se:SvgParameter>
              	<se:SvgParameter name="stroke-linejoin">round</se:SvgParameter>
@@ -1032,9 +1032,9 @@
                     </ogc:Function>                  
                    <ogc:Literal>6</ogc:Literal>
                    <ogc:Literal>19999</ogc:Literal>
-                   <ogc:Literal>6</ogc:Literal>
+                   <ogc:Literal>5.5</ogc:Literal>
                    <ogc:Literal>49999</ogc:Literal>
-                   <ogc:Literal>6</ogc:Literal>
+                   <ogc:Literal>5</ogc:Literal>
                    <ogc:Literal>99999</ogc:Literal>
                    <ogc:Literal>4</ogc:Literal>  
               </ogc:Function>                          
@@ -1069,15 +1069,15 @@
                     <ogc:Function name="env">
                     <ogc:Literal>wms_scale_denominator</ogc:Literal>
                     </ogc:Function>                   
-                   <ogc:Literal>7</ogc:Literal>
+                   <ogc:Literal>5.4</ogc:Literal>
                    <ogc:Literal>499</ogc:Literal>
-                   <ogc:Literal>7</ogc:Literal>
+                   <ogc:Literal>5.4</ogc:Literal>
                    <ogc:Literal>999</ogc:Literal>
-                   <ogc:Literal>8</ogc:Literal>
+                   <ogc:Literal>7.4</ogc:Literal>
                    <ogc:Literal>1999</ogc:Literal>
-                   <ogc:Literal>8</ogc:Literal>
-                   <ogc:Literal>4999</ogc:Literal>
                    <ogc:Literal>11</ogc:Literal>
+                   <ogc:Literal>4999</ogc:Literal>
+                   <ogc:Literal>13</ogc:Literal>
               </ogc:Function>                          
               </se:SvgParameter>
              	<se:SvgParameter name="stroke-linejoin">round</se:SvgParameter>
@@ -1107,9 +1107,9 @@
                     <ogc:Function name="env">
                     <ogc:Literal>wms_scale_denominator</ogc:Literal>
                     </ogc:Function>                   
-                   <ogc:Literal>5</ogc:Literal>
+                   <ogc:Literal>6</ogc:Literal>
                    <ogc:Literal>19999</ogc:Literal>
-                   <ogc:Literal>5</ogc:Literal>
+                   <ogc:Literal>5.5</ogc:Literal>
                    <ogc:Literal>49999</ogc:Literal>
                    <ogc:Literal>5</ogc:Literal>
                    <ogc:Literal>99999</ogc:Literal>
@@ -1551,7 +1551,7 @@
                     <ogc:Function name="env">
                     <ogc:Literal>wms_scale_denominator</ogc:Literal>
                     </ogc:Function>                   
-                   <ogc:Literal>2</ogc:Literal>
+                   <ogc:Literal>2.7</ogc:Literal>
                    <ogc:Literal>19999</ogc:Literal>
                    <ogc:Literal>2</ogc:Literal>
                    <ogc:Literal>49999</ogc:Literal>
@@ -1590,7 +1590,7 @@
                     <ogc:Function name="env">
                     <ogc:Literal>wms_scale_denominator</ogc:Literal>
                     </ogc:Function>                   
-                   <ogc:Literal>3</ogc:Literal>
+                   <ogc:Literal>3.4</ogc:Literal>
                    <ogc:Literal>19999</ogc:Literal>
                    <ogc:Literal>3</ogc:Literal>
                    <ogc:Literal>49999</ogc:Literal>
@@ -1634,7 +1634,7 @@
                    <ogc:Literal>499</ogc:Literal>
                    <ogc:Literal>4</ogc:Literal>
                    <ogc:Literal>999</ogc:Literal>
-                   <ogc:Literal>6</ogc:Literal>
+                   <ogc:Literal>5.4</ogc:Literal>
                    <ogc:Literal>1999</ogc:Literal>
                    <ogc:Literal>8</ogc:Literal>
                    <ogc:Literal>4999</ogc:Literal>
@@ -1676,11 +1676,11 @@
                     </ogc:Function>                   
                    <ogc:Literal>4</ogc:Literal>
                    <ogc:Literal>19999</ogc:Literal>
-                   <ogc:Literal>4</ogc:Literal>
+                   <ogc:Literal>3.6</ogc:Literal>
                    <ogc:Literal>49999</ogc:Literal>
-                   <ogc:Literal>4</ogc:Literal>
+                   <ogc:Literal>3.6</ogc:Literal>
                    <ogc:Literal>99999</ogc:Literal>
-                   <ogc:Literal>3</ogc:Literal>                       
+                   <ogc:Literal>2.6</ogc:Literal>                       
               </ogc:Function>                          
               </se:SvgParameter>
              	<se:SvgParameter name="stroke-linejoin">round</se:SvgParameter>
@@ -1717,15 +1717,15 @@
                     <ogc:Function name="env">
                     <ogc:Literal>wms_scale_denominator</ogc:Literal>
                     </ogc:Function>                  
-                   <ogc:Literal>3.4</ogc:Literal>
+                   <ogc:Literal>2.4</ogc:Literal>
                    <ogc:Literal>499</ogc:Literal>
-                   <ogc:Literal>3.4</ogc:Literal>
+                   <ogc:Literal>2.4</ogc:Literal>
                    <ogc:Literal>999</ogc:Literal>
-                   <ogc:Literal>5.4</ogc:Literal>
+                   <ogc:Literal>3.4</ogc:Literal>
                    <ogc:Literal>1999</ogc:Literal>
-                   <ogc:Literal>7.4</ogc:Literal>
+                   <ogc:Literal>4.4</ogc:Literal>
                    <ogc:Literal>4999</ogc:Literal>
-                   <ogc:Literal>9.4</ogc:Literal>
+                   <ogc:Literal>6.4</ogc:Literal>
               </ogc:Function>                          
               </se:SvgParameter>
              	<se:SvgParameter name="stroke-linejoin">round</se:SvgParameter>
@@ -1801,15 +1801,15 @@
                     <ogc:Function name="env">
                     <ogc:Literal>wms_scale_denominator</ogc:Literal>
                     </ogc:Function>                   
-                   <ogc:Literal>3.4</ogc:Literal>
+                   <ogc:Literal>3</ogc:Literal>
                    <ogc:Literal>499</ogc:Literal>
-                   <ogc:Literal>3.4</ogc:Literal>
+                   <ogc:Literal>3</ogc:Literal>
                    <ogc:Literal>999</ogc:Literal>
-                   <ogc:Literal>5.4</ogc:Literal>
+                   <ogc:Literal>4</ogc:Literal>
                    <ogc:Literal>1999</ogc:Literal>
-                   <ogc:Literal>7.4</ogc:Literal>
+                   <ogc:Literal>5</ogc:Literal>
                    <ogc:Literal>4999</ogc:Literal>
-                   <ogc:Literal>9.4</ogc:Literal>
+                   <ogc:Literal>7</ogc:Literal>
               </ogc:Function>                          
               </se:SvgParameter>
              	<se:SvgParameter name="stroke-linejoin">round</se:SvgParameter>
@@ -1844,13 +1844,13 @@
                     <ogc:Function name="env">
                     <ogc:Literal>wms_scale_denominator</ogc:Literal>
                     </ogc:Function>                   
-                   <ogc:Literal>3</ogc:Literal>
+                   <ogc:Literal>2.8</ogc:Literal>
                    <ogc:Literal>19999</ogc:Literal>
-                   <ogc:Literal>3</ogc:Literal>
+                   <ogc:Literal>2.4</ogc:Literal>
                    <ogc:Literal>49999</ogc:Literal>
-                   <ogc:Literal>3</ogc:Literal>
+                   <ogc:Literal>2.4</ogc:Literal>
                    <ogc:Literal>99999</ogc:Literal>
-                   <ogc:Literal>2</ogc:Literal>
+                   <ogc:Literal>1.4</ogc:Literal>
               </ogc:Function>                          
               </se:SvgParameter>
              	<se:SvgParameter name="stroke-linejoin">round</se:SvgParameter>
@@ -1886,7 +1886,7 @@
                    <ogc:Literal>499</ogc:Literal>
                    <ogc:Literal>4</ogc:Literal>
                    <ogc:Literal>999</ogc:Literal>
-                   <ogc:Literal>6</ogc:Literal>
+                   <ogc:Literal>5.4</ogc:Literal>
                    <ogc:Literal>1999</ogc:Literal>
                    <ogc:Literal>8</ogc:Literal>
                    <ogc:Literal>4999</ogc:Literal>
@@ -1926,7 +1926,7 @@
                    <ogc:Literal>49999</ogc:Literal>
                    <ogc:Literal>4</ogc:Literal>
                    <ogc:Literal>99999</ogc:Literal>
-                   <ogc:Literal>2</ogc:Literal>                    
+                   <ogc:Literal>2.5</ogc:Literal>                    
               </ogc:Function>                          
               </se:SvgParameter>
              	<se:SvgParameter name="stroke-linejoin">round</se:SvgParameter>
