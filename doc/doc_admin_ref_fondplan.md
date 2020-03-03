@@ -23,9 +23,11 @@ Les données utilisées sont toutes issues de notre base de données provenant d
 |geo_bdtopo_troncon_cours_eau|BDTopo IGN|Oise, Aisne, Aronde et Automne pour les étiquettes|cours d'eau + étiquettes|plan_light_hydro_lin.sld|
 |geo_batiment|PCIv DGFiP|aucun|bâtiment|plan_light_bati.sld|
 |geo_v_plan_detail|POI ARC|terrains de sport, cimetières, parcs et jardins|surfaces propres à ces activités|plan_light_detail.sld|
-|geo_osm_vf|OSM|rail|réseau ferroviaire|plan_light_voie_ferree.sld|
+|geo_osm_plan_vf|OSM|rail|réseau ferroviaire en activité|plan_light_voie_ferree.sld|
 |geo_osm_masque_apc|OSM|aucun|masque d'opacité sur le fond perdu autour du pays compiégnois|plan_masque.sld|
 |geo_v_plan_troncon|BAL ARC|aucun|voies|plan_light_troncon.sld|
+|geo_v_plan_troncon|BAL ARC|aucun|voies de type pont ou passerelle|plan_light_troncon_pont.sld|
+|geo_osm_plan_vf|OSM|rail|réseau ferroviaire en activité de type pont|plan_light_voie_ferree_pont.sld|
 |geo_vm_osm_commune_apc|OSM|aucun|limites communales du pays compiégnois|plan_limite_communale.sld|
 |geo_v_plan_lib_voie|ARC|aucun|étiquettes des voies|plan_light_voies_label.sld|
 |geo_v_plan_sens_uniq|ARC|aucun|sens unique directionnel des voies|plan_sens_unique.sld|
