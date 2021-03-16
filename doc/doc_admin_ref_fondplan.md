@@ -18,9 +18,9 @@ Les données utilisées sont toutes issues de notre base de données provenant d
 |Table | Source | Pré-traitement | Usage | Style
 |:---|:---|:---|:---|:---|
 |geo_plan_fond|OCS Picardie 2010|aucun|fond|plan_light_fond_simplifie.sld|
-|geo_bdtopo_vegetation|BDTopo IGN|aucun|végétation|plan_light_vegetation.sld|
-|geo_bdtopo_surface_eau|BDTopo IGN|aucun|rivières, plans d'eau|plan_light_hydro_surf.sld|
-|geo_bdtopo_troncon_cours_eau|BDTopo IGN|Oise, Aisne, Aronde et Automne pour les étiquettes|cours d'eau + étiquettes|plan_light_hydro_lin.sld|
+|geo_bdtopo_zone_vegetation|BDTopo IGN|aucun|végétation|plan_light_vegetation.sld|
+|geo_bdtopo_surface_hydro|BDTopo IGN|aucun|rivières, plans d'eau|plan_light_hydro_surf.sld|
+|geo_bdtopo_troncon_hydro|BDTopo IGN|Oise, Aisne, Aronde et Automne pour les étiquettes|cours d'eau + étiquettes|plan_light_hydro_lin.sld|
 |geo_batiment|PCIv DGFiP|aucun|bâtiment|plan_light_bati.sld|
 |geo_v_plan_detail|POI ARC|terrains de sport, cimetières, parcs et jardins|surfaces propres à ces activités|plan_light_detail.sld|
 |geo_osm_masque_apc|OSM|aucun|masque d'opacité sur le fond perdu autour du pays compiégnois|plan_masque.sld|
