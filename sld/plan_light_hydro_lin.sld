@@ -16,11 +16,11 @@
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
            <ogc:Or>
              <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>nom</ogc:PropertyName>
+              <ogc:PropertyName>nom_c_eau</ogc:PropertyName>
               <ogc:Literal>l'Aronde</ogc:Literal>
              </ogc:PropertyIsEqualTo>
              <ogc:PropertyIsEqualTo>
-              <ogc:PropertyName>nom</ogc:PropertyName>
+              <ogc:PropertyName>nom_c_eau</ogc:PropertyName>
               <ogc:Literal>l'Automne</ogc:Literal>
              </ogc:PropertyIsEqualTo>
            </ogc:Or>
@@ -67,11 +67,11 @@
           <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
            <ogc:Or>
              <ogc:PropertyIsNotEqualTo>
-              <ogc:PropertyName>nom</ogc:PropertyName>
+              <ogc:PropertyName>nom_c_eau</ogc:PropertyName>
               <ogc:Literal>l'Aronde</ogc:Literal>
              </ogc:PropertyIsNotEqualTo>
              <ogc:PropertyIsNotEqualTo>
-              <ogc:PropertyName>nom</ogc:PropertyName>
+              <ogc:PropertyName>nom_c_eau</ogc:PropertyName>
               <ogc:Literal>l'Automne</ogc:Literal>
              </ogc:PropertyIsNotEqualTo>
            </ogc:Or>
@@ -114,19 +114,19 @@
 		  <ogc:Filter xmlns:ogc="http://www.opengis.net/ogc">
             <ogc:Or>
                <ogc:PropertyIsEqualTo>
-                 <ogc:PropertyName>nom</ogc:PropertyName>
-                 <ogc:Literal>L'OISE</ogc:Literal>
+                 <ogc:PropertyName>nom_c_eau</ogc:PropertyName>
+                 <ogc:Literal>l'Oise</ogc:Literal>
                </ogc:PropertyIsEqualTo>
                <ogc:PropertyIsEqualTo>
-                 <ogc:PropertyName>nom</ogc:PropertyName>
-                 <ogc:Literal>L'AISNE</ogc:Literal>
+                 <ogc:PropertyName>nom_c_eau</ogc:PropertyName>
+                 <ogc:Literal>l'Aisne</ogc:Literal>
                </ogc:PropertyIsEqualTo>
                <ogc:PropertyIsEqualTo>
-                 <ogc:PropertyName>nom</ogc:PropertyName>
+                 <ogc:PropertyName>nom_c_eau</ogc:PropertyName>
                  <ogc:Literal>l'Aronde</ogc:Literal>
                </ogc:PropertyIsEqualTo>
                <ogc:PropertyIsEqualTo>
-                 <ogc:PropertyName>nom</ogc:PropertyName>
+                 <ogc:PropertyName>nom_c_eau</ogc:PropertyName>
                  <ogc:Literal>l'Automne</ogc:Literal>
                </ogc:PropertyIsEqualTo>
             </ogc:Or>  
@@ -147,10 +147,10 @@
                    <ogc:Literal>20</ogc:Literal>
                    <ogc:Literal>499</ogc:Literal>
                    <ogc:Literal>15</ogc:Literal>
-		  		   <ogc:Literal>999</ogc:Literal>
-		  		   <ogc:Literal>12</ogc:Literal>
+		   <ogc:Literal>999</ogc:Literal>
+		   <ogc:Literal>12</ogc:Literal>
              	   <ogc:Literal>1499</ogc:Literal>
-		   		   <ogc:Literal>10</ogc:Literal>
+		   <ogc:Literal>10</ogc:Literal>
                    <ogc:Literal>1999</ogc:Literal>
                    <ogc:Literal>9.5</ogc:Literal>
                    <ogc:Literal>2999</ogc:Literal>
