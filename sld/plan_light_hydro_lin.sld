@@ -135,7 +135,7 @@
 		  <se:MaxScaleDenominator>9999</se:MaxScaleDenominator>
           <se:TextSymbolizer>
              <se:Label>
-             	<ogc:PropertyName>nom</ogc:PropertyName>
+             	<ogc:PropertyName>nom_c_eau</ogc:PropertyName>
           	 </se:Label>
           	 <se:Font>
           	  <se:SvgParameter name="font-family">Arial</se:SvgParameter>
